@@ -107,7 +107,6 @@ int main() {
         }
     
     }
-
     cout << max(verticalMax, horizentalMax)+1;
     //cnt를 0부터 시작해서 마지막에 1 더해줘야함
 
